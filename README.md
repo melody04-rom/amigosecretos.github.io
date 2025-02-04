@@ -1,4 +1,5 @@
 # amigosecretos.github.io
+![PORTADA AS](https://github.com/user-attachments/assets/47238a65-7829-4e90-84db-c7b4be7a2138)
 Descripción del proyecto
 Este proyecto es una aplicación simple en JavaScript que permite a los usuarios agregar nombres de amigos en la consola y luego realizar un sorteo aleatorio entre ellos. Es una herramienta divertida y útil para decidir quién será el próximo en jugar, quién pagará la cena, o simplemente para divertirse con amigos.
 
